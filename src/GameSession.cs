@@ -125,6 +125,7 @@ namespace BlockPuzzle {
 
         public void OnGameOver(GamePane pane)
         {
+            running = false;
         }
 
         public override void OnUpdate(FrameEventArgs args)
