@@ -1,0 +1,9 @@
+BlockPuzzle
+===========
+
+Simple TetrisAttack clone written in C# with OpenTK.  The game
+works on OS X, Linux and Windows with Mono and .NET but the
+project file only exists for MonoDevelop.
+
+OpenTK has to be added as assembly to the lib folder, it's not in
+this repository for size reasons.
